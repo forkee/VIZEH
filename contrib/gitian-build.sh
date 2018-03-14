@@ -3,15 +3,15 @@
 # file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
 # What to do
-sign=false
-verify=false
-build=false
+sign=true
+verify=true
+build=true
 setupenv=false
 
 # Systems to build
 linux=true
 windows=true
-osx=true
+osx=false
 
 # Other Basic variables
 SIGNER=
