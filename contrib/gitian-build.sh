@@ -3,9 +3,9 @@
 # file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
 # What to do
-sign=true
-verify=true
-build=true
+sign=false
+verify=false
+build=false
 setupenv=false
 
 # Systems to build
